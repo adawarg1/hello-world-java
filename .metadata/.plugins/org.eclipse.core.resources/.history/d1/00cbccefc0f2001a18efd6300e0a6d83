@@ -1,0 +1,5 @@
+package com.adawar.docker;
+
+public class HelloWorldPing {
+
+}
